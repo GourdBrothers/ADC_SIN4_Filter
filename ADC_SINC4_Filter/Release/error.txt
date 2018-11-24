@@ -1,0 +1,18 @@
+--- 1186_adc_test.asm
+--- _csu8rp1186.inc
+--- _csu_macro.asm
+--- _ram_define.asm
+--- _const_define.asm
+--- _csu1186_isr.asm
+--- _isr_adc_sinc4.asm
+--- _csu1186_math.asm
+--- _lcd_cdoe.asm
+--- _fun_lib.asm
+--- _csu1186_init.asm
+生成Hex文件.
+
+目标器件 :CSU8RP1186
+CodeOption  : CodeOption0:0x0001;
+Checksum : 7CF3
+C:\Users\XCWK_XL\Desktop\Demo_Code_同事\1186_Adc_Test\//1186_Adc_Test.asm
+共用程序空间 ：706×16 bits ( 17.23% )

@@ -1,0 +1,27 @@
+# Generalplus IDE Solution File, Format Version 1.0.0
+# Warning: do not edit or delete this solution file!
+
+# ////////////////////////////////////////////////////
+# Begin Solution
+<Solution>
+	NAME : 1186_Adc_Test
+	GUID : {E15DD429-1A24-42BF-A736-C65B2E0603B1}
+	STARTUP : {A4458DB7-ADDC-4026-A555-3F1E41EF668D}
+	ACTIVECONFIGURATION : Release
+</Solution>
+# End Solution
+
+# ////////////////////////////////////////////////////
+# Begin Project
+<Projects>
+	COUNT : 1
+	<Project1>
+		NAME : 1186_Adc_Test
+		GUID : {A4458DB7-ADDC-4026-A555-3F1E41EF668D}
+		PATH : .\1186_Adc_Test.csuprj
+		Dependencies : 
+	</Project1>
+</Projects>
+
+# End Project
+# ////////////////////////////////////////////////////
