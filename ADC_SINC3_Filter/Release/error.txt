@@ -1,0 +1,19 @@
+--- 1186_adc_test.asm
+--- _csu8rp1186.inc
+--- _csu_macro.asm
+--- _ram_define.asm
+--- _const_define.asm
+--- _csu1186_isr.asm
+--- _isr_adc_sinc3.asm
+--- _csu1186_math.asm
+--- _1186_uart.asm
+--- _lcd_cdoe.asm
+--- _fun_lib.asm
+--- _csu1186_init.asm
+生成Hex文件.
+
+目标器件 :CSU8RP1186
+CodeOption  : CodeOption0:0x0001;
+Checksum : D54C
+G:\share\GourdBrothers\ADC_SIN4_Filter\ADC_SINC3_Filter\//1186_Adc_Test.asm
+共用程序空间 ：724×16 bits ( 17.67% )
